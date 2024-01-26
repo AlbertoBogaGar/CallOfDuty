@@ -1,4 +1,4 @@
-package trabajo.call.Trabajo_CallOfDuty;
+package CallOfDuty.Trabajo_CallOfDuty.src.main.java.trabajo.call.Trabajo_CallOfDuty;
 
 public class AccesorioPrincipal {
 	private boolean mira;
