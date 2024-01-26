@@ -1,8 +1,11 @@
-package CallOfDuty;
+package trabajo.call.Trabajo_CallOfDuty;
 
 import java.util.Objects;
 
 public class Principal extends Armas {
+	
+	private static final int PESO_OCUPACION = 3;
+	
 	private String recarga;
 	private AccesorioPrincipal[] accesoriosArma;
 

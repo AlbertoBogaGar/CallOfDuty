@@ -1,8 +1,11 @@
-package CallOfDuty;
+package trabajo.call.Trabajo_CallOfDuty;
 
 import java.util.Objects;
 
 public class Secundaria extends Armas {
+	
+	private static final int PESO_OCUPACION = 2;
+	
 	private int tamñoHoja;
 
 	public Secundaria(String nombre, String tipo, int daño) {

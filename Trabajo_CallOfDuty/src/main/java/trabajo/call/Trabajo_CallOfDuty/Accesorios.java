@@ -1,4 +1,4 @@
-package CallOfDuty;
+package trabajo.call.Trabajo_CallOfDuty;
 
 public class Accesorios {
 	private String utilidad;

@@ -1,13 +1,13 @@
-package CallOfDuty;
+package trabajo.call.Trabajo_CallOfDuty;
 
 import java.util.Objects;
 
 public class Armas {
+	
 	private String nombre;
 	private String tipo; //fusil subfusil 
 	private int daño;
 	public Armas(String nombre, String tipo, int daño) {
-		super();
 		this.nombre = nombre;
 		this.tipo = tipo;
 		this.daño = daño;
